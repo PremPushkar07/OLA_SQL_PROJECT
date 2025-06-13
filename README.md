@@ -55,8 +55,6 @@ Python/Excel: Data preprocessing and randomization.
 
 
 --- SQL Techniques Used
-
-
 GROUP BY, 
 ORDER BY,
 LIMIT
@@ -84,6 +82,8 @@ Discovered peak ride hours, useful for fleet optimization and pricing.
 
 
 
+
+
 ----Cancellations & Incomplete Rides
 
 
@@ -92,6 +92,8 @@ Vehicle-wise and location-wise cancellation behavior assessed.
 Identified top 10 pickup locations with highest driver cancellations.
 
 Highlighted problem zones with high incomplete/failed rides.
+
+
 
 
 
@@ -108,6 +110,8 @@ Monthly customer-level booking value analyzed.
 
 
 
+
+
 ----Customer Behavior
 
 
@@ -119,6 +123,8 @@ Ranked customers by lifetime active span.
 
 
 
+
+
  Ratings & Turnaround Times
 
  
@@ -127,6 +133,8 @@ Compared average customer ratings by vehicle type.
 Found low-rated vehicle segments via driver rating analysis.
 
 Calculated Vehicle Turnaround Time (VTAT) and Customer Turnaround Time (CTAT) across time slots.
+
+
 
 
 --- Location-Based Trends
