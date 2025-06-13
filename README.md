@@ -49,7 +49,9 @@ Table Name: `ola_rides`
 
 
 SQL: Data wrangling, cleaning and querying for insights.
+
 TABLEAU: Dashboard creation and detailed reporting.
+
 Python/Excel: Data preprocessing and randomization.
 
 
