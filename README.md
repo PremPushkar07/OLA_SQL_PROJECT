@@ -1,6 +1,5 @@
 
 ![ola dashboard](https://github.com/user-attachments/assets/f6ca21f1-1a78-48a5-aa58-6aa16c00b040)
-![ola dashboard](https://github.com/user-attachments/assets/f6ca21f1-1a78-48a5-aa58-6aa16c00b040)
 
 
 # Ola Ride Analytics — SQL Case Study Project
